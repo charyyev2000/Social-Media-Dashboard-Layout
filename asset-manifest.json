@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "//Social-Media-Dashboard-Layout/static/js/main.53c89f0d.chunk.js",
+    "main.js.map": "//Social-Media-Dashboard-Layout/static/js/main.53c89f0d.chunk.js.map",
+    "runtime-main.js": "//Social-Media-Dashboard-Layout/static/js/runtime-main.144be1ee.js",
+    "runtime-main.js.map": "//Social-Media-Dashboard-Layout/static/js/runtime-main.144be1ee.js.map",
+    "static/js/2.ddb75532.chunk.js": "//Social-Media-Dashboard-Layout/static/js/2.ddb75532.chunk.js",
+    "static/js/2.ddb75532.chunk.js.map": "//Social-Media-Dashboard-Layout/static/js/2.ddb75532.chunk.js.map",
+    "index.html": "//Social-Media-Dashboard-Layout/index.html",
+    "static/js/2.ddb75532.chunk.js.LICENSE.txt": "//Social-Media-Dashboard-Layout/static/js/2.ddb75532.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.144be1ee.js",
+    "static/js/2.ddb75532.chunk.js",
+    "static/js/main.53c89f0d.chunk.js"
+  ]
+}
